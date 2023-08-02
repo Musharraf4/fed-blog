@@ -349,6 +349,11 @@ hr {
 }
 
 @media (max-width: 575px) {
+  .logoText {
+    font-size: 20px;
+}
+
+
   .container-fluid {
     padding: 0 15px;
   }
